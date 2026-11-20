@@ -1,9 +1,0 @@
-{
-  "name": "termux-style-ardika",
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "apply": "node banner.js",
-    "install-banner": "bash install.sh"
-  }
-}
