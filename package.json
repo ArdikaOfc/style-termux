@@ -1,0 +1,21 @@
+{
+  "name": "style-termux-ardikaofc",
+  "version": "1.0.0",
+  "description": "Konfigurasi dan skrip tampilan banner Termux oleh ArdikaOfc",
+  "type": "module",
+  "main": "banner.js",
+  "scripts": {
+    "apply": "node banner.js",
+    "remove": "node banner.js --remove"
+  },
+  "keywords": [
+    "termux",
+    "banner",
+    "neofetch",
+    "figlet",
+    "lolcat",
+    "ardikaofc"
+  ],
+  "author": "ArdikaOfc",
+  "license": "MIT"
+}
